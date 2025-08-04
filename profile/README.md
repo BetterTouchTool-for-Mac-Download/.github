@@ -40,7 +40,7 @@ The software supports a wide range of customization options, such as assigning g
 
 BetterTouchTool is highly configurable and supports multiple devices, including Magic Trackpads and third-party mice. With its intuitive interface and extensive documentation, users can easily tailor the tool to their specific needs, unlocking the full potential of their Mac's input devices.
 
-![BetterTouchTool Screenshot 2](https://static.macupdate.com/screenshots/352501/m/bettertouchtool-screenshot.png)
+![BetterTouchTool Screenshot 2](https://mac-cdn.softpedia.com/screenshots/BetterTouchTool_26.jpg)
 
 ---
 
